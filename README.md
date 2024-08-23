@@ -7,7 +7,6 @@ let loboGomes = {
     // Basic Info
     pronouns: "She/Her",
     location: "Brazil",
-    timezone: "BRT (UTC-3)",
     languages: [ "English", "Portuguese", "Spanish" ],
     bio: "I'm Amanda, a full-stack developer, valorant player and mom of five cats! 👨‍💻",
 
